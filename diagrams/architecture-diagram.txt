@@ -1,0 +1,13 @@
+The architecture diagram is available as a draw.io file:
+
+  diagrams/architecture-diagram.drawio
+
+Open it at https://app.diagrams.net by importing the file, or open it
+directly in VS Code with the draw.io extension (hediet.vscode-drawio).
+
+To export a PNG for the README:
+  File > Export As > PNG
+  Save as diagrams/architecture-diagram.png
+
+Then reference it in README.md:
+  ![Architecture Diagram](diagrams/architecture-diagram.png)
